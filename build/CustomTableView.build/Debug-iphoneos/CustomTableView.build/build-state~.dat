@@ -1,0 +1,478 @@
+TCustomTableView
+v7
+r0
+t302714452.047573
+cCheck dependencies
+cCpResource build/Debug-iphoneos/CustomTableView.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/Info.plist CustomTableView-Info.plist
+cCompileXIB /Users/cwiles/Desktop/CustomTableView/MainWindow.xib
+cCompileXIB /Users/cwiles/Desktop/CustomTableView/Classes/DetailViewController.xib
+cProcessPCH /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableView_Prefix-ftbriagzqkrczsgiknusdfklroof/CustomTableView_Prefix.pch.gch CustomTableView_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableView_Prefix-enelmofzeppxgsbovmgazzvyuoau/CustomTableView_Prefix.pch.gch CustomTableView_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/main.o /Users/cwiles/Desktop/CustomTableView/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/UntitledAppDelegate.o /Users/cwiles/Desktop/CustomTableView/Classes/UntitledAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/RootViewController.o /Users/cwiles/Desktop/CustomTableView/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/DetailViewController.o /Users/cwiles/Desktop/CustomTableView/Classes/DetailViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/main.o /Users/cwiles/Desktop/CustomTableView/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/CustomTableView normal armv6
+cCompileC build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/UntitledAppDelegate.o /Users/cwiles/Desktop/CustomTableView/Classes/UntitledAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/RootViewController.o /Users/cwiles/Desktop/CustomTableView/Classes/RootViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/DetailViewController.o /Users/cwiles/Desktop/CustomTableView/Classes/DetailViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/CustomTableView normal armv7
+cCreateUniversalBinary /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/CustomTableView normal "armv6 armv7"
+cGenerateDSYMFile /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app.dSYM /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/CustomTableView
+cProcessProductPackaging "/Users/cwiles/Library/MobileDevice/Provisioning Profiles/E2639891-11FC-484F-8411-67380641C90D.mobileprovision" /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/embedded.mobileprovision
+cTouch /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView.xcent
+cCodeSign /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C3F67160000000000000110
+t1279223574
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+c000000004C2A7DA700000000000001A7
+t1277853095
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004C2A7DA700000000000001E5
+t1277853095
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C296E2A00000000000009CD
+t1277783594
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C296F120000000002D563E0
+t1277783826
+s47539168
+
+N/Users/cwiles/Desktop/CustomTableView/Classes/DetailViewController.h
+c000000004BD8974D00000000000000E7
+t1272485709
+s231
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Desktop/CustomTableView/Classes/DetailViewController.m
+c000000004BD8974D00000000000005A3
+t1272485709
+s1443
+i"DetailViewController.h"
+
+N/Users/cwiles/Desktop/CustomTableView/Classes/DetailViewController.xib
+c000000004BD8976B0000000000004075
+t1272485739
+s16501
+
+N/Users/cwiles/Desktop/CustomTableView/Classes/RootViewController.h
+c000000004BD89803000000000000016A
+t1272485891
+s362
+i<UIKit/UIKit.h>
+i"DetailViewController.h"
+
+N/Users/cwiles/Desktop/CustomTableView/Classes/RootViewController.m
+c000000004BD993BD0000000000000BB6
+t1272550333
+s2998
+i"RootViewController.h"
+
+N/Users/cwiles/Desktop/CustomTableView/Classes/UntitledAppDelegate.h
+c000000004BD895A20000000000000164
+t1272485282
+s356
+i<UIKit/UIKit.h>
+i"RootViewController.h"
+
+N/Users/cwiles/Desktop/CustomTableView/Classes/UntitledAppDelegate.m
+c000000004BD8966E0000000000000341
+t1272485486
+s833
+i"UntitledAppDelegate.h"
+
+N/Users/cwiles/Desktop/CustomTableView/CustomTableView_Prefix.pch
+c000000004BD8933100000000000000B9
+t1272484657
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Desktop/CustomTableView/MainWindow.xib
+c000000004BD89331000000000000210D
+t1272484657
+s8461
+
+N/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView.xcent
+t1281021651
+s436
+
+N/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/CustomTableView
+t1281021651
+s22928
+
+N/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/CustomTableView.LinkFileList
+c000000004C5AD6D10000000000000239
+t1281021649
+s569
+
+N/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/DetailViewController.o
+t1281021651
+s34356
+
+N/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/RootViewController.o
+t1281021651
+s49760
+
+N/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/UntitledAppDelegate.o
+t1281021651
+s46672
+
+N/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/main.o
+t1281021651
+s6436
+
+N/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/CustomTableView
+t1281021651
+s22928
+
+N/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/CustomTableView.LinkFileList
+c000000004C5AD6D10000000000000239
+t1281021649
+s569
+
+N/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/DetailViewController.o
+t1281021651
+s34328
+
+N/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/RootViewController.o
+t1281021651
+s49436
+
+N/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/UntitledAppDelegate.o
+t1281021651
+s46620
+
+N/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/main.o
+t1281021651
+s6420
+
+N/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app
+t1281021652
+s374
+
+N/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app.dSYM
+t1281021651
+s102
+
+N/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/CustomTableView
+t1281021651
+s51600
+
+N/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/DetailViewController.nib
+t1281021650
+s1178
+
+N/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/Info.plist
+t1281021649
+s764
+
+N/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/MainWindow.nib
+t1281021650
+s985
+
+N/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/PkgInfo
+t1281021649
+s8
+
+N/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/ResourceRules.plist
+t1281021649
+s485
+
+N/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/embedded.mobileprovision
+t1281021651
+s7894
+
+N/Users/cwiles/Desktop/CustomTableView/main.m
+c000000004BD893310000000000000164
+t1272484657
+s356
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Library/MobileDevice/Provisioning Profiles/E2639891-11FC-484F-8411-67380641C90D.mobileprovision
+c000000004C34BE440000000000001ED6
+t1278524996
+s7894
+
+N/var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableView_Prefix-enelmofzeppxgsbovmgazzvyuoau/CustomTableView_Prefix.pch.gch
+t1281021651
+s10290736
+
+N/var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableView_Prefix-ftbriagzqkrczsgiknusdfklroof/CustomTableView_Prefix.pch.gch
+t1281021651
+s9831984
+
+NCustomTableView-Info.plist
+c000000004BD89331000000000000038D
+t1272484657
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies302714449#302714449#0(0"0(0#1#0"8606378112#0"0#
+
+CCodeSign /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app
+s302714451.860093
+e302714452.047409
+r1
+xCodeSign
+x/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app
+lSLF07#2@49"CodeSign build/Debug-iphoneos/CustomTableView.app302714451#302714452#0(0"0(0#0#78"/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app8603289504#682"    cd /Users/cwiles/Desktop/CustomTableView    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Cory Wiles (98422P78Z5)" --resource-rules=/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/ResourceRules.plist --entitlements /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView.xcent /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app0#
+
+CCompileC build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/DetailViewController.o /Users/cwiles/Desktop/CustomTableView/Classes/DetailViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s302714451.484703
+e302714451.554609
+r1
+xCompileC
+xbuild/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/DetailViewController.o
+x/Users/cwiles/Desktop/CustomTableView/Classes/DetailViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/cwiles/Desktop/CustomTableView/Classes/DetailViewController.m302714451#302714451#0(0"0(0#0#68"/Users/cwiles/Desktop/CustomTableView/Classes/DetailViewController.m8609060448#1913"    cd /Users/cwiles/Desktop/CustomTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-generated-files.hmap -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-own-target-headers.hmap -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-all-target-headers.hmap -iquote /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-project-headers.hmap -F/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos -I/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/include -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/DerivedSources/armv6 -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/DerivedSources -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableView_Prefix-ftbriagzqkrczsgiknusdfklroof/CustomTableView_Prefix.pch -c /Users/cwiles/Desktop/CustomTableView/Classes/DetailViewController.m -o /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/DetailViewController.o0#
+
+CCompileC build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/RootViewController.o /Users/cwiles/Desktop/CustomTableView/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s302714451.463516
+e302714451.581241
+r1
+xCompileC
+xbuild/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/RootViewController.o
+x/Users/cwiles/Desktop/CustomTableView/Classes/RootViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/cwiles/Desktop/CustomTableView/Classes/RootViewController.m302714451#302714451#0(0"0(0#0#66"/Users/cwiles/Desktop/CustomTableView/Classes/RootViewController.m8599064480#1909"    cd /Users/cwiles/Desktop/CustomTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-generated-files.hmap -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-own-target-headers.hmap -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-all-target-headers.hmap -iquote /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-project-headers.hmap -F/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos -I/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/include -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/DerivedSources/armv6 -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/DerivedSources -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableView_Prefix-ftbriagzqkrczsgiknusdfklroof/CustomTableView_Prefix.pch -c /Users/cwiles/Desktop/CustomTableView/Classes/RootViewController.m -o /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/RootViewController.o0#
+
+CCompileC build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/UntitledAppDelegate.o /Users/cwiles/Desktop/CustomTableView/Classes/UntitledAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s302714451.404501
+e302714451.484546
+r1
+xCompileC
+xbuild/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/UntitledAppDelegate.o
+x/Users/cwiles/Desktop/CustomTableView/Classes/UntitledAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/cwiles/Desktop/CustomTableView/Classes/UntitledAppDelegate.m302714451#302714451#0(0"0(0#0#67"/Users/cwiles/Desktop/CustomTableView/Classes/UntitledAppDelegate.m8603245600#1911"    cd /Users/cwiles/Desktop/CustomTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-generated-files.hmap -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-own-target-headers.hmap -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-all-target-headers.hmap -iquote /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-project-headers.hmap -F/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos -I/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/include -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/DerivedSources/armv6 -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/DerivedSources -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableView_Prefix-ftbriagzqkrczsgiknusdfklroof/CustomTableView_Prefix.pch -c /Users/cwiles/Desktop/CustomTableView/Classes/UntitledAppDelegate.m -o /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/UntitledAppDelegate.o0#
+
+CCompileC build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/main.o /Users/cwiles/Desktop/CustomTableView/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s302714451.403452
+e302714451.463375
+r1
+xCompileC
+xbuild/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/main.o
+x/Users/cwiles/Desktop/CustomTableView/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/cwiles/Desktop/CustomTableView/main.m302714451#302714451#0(0"0(0#0#44"/Users/cwiles/Desktop/CustomTableView/main.m8600232992#1873"    cd /Users/cwiles/Desktop/CustomTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-generated-files.hmap -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-own-target-headers.hmap -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-all-target-headers.hmap -iquote /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-project-headers.hmap -F/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos -I/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/include -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/DerivedSources/armv6 -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/DerivedSources -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableView_Prefix-ftbriagzqkrczsgiknusdfklroof/CustomTableView_Prefix.pch -c /Users/cwiles/Desktop/CustomTableView/main.m -o /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/DetailViewController.o /Users/cwiles/Desktop/CustomTableView/Classes/DetailViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s302714451.711047
+e302714451.771930
+r1
+xCompileC
+xbuild/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/DetailViewController.o
+x/Users/cwiles/Desktop/CustomTableView/Classes/DetailViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/cwiles/Desktop/CustomTableView/Classes/DetailViewController.m302714451#302714451#0(0"0(0#0#68"/Users/cwiles/Desktop/CustomTableView/Classes/DetailViewController.m8602810688#1913"    cd /Users/cwiles/Desktop/CustomTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-generated-files.hmap -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-own-target-headers.hmap -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-all-target-headers.hmap -iquote /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-project-headers.hmap -F/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos -I/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/include -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/DerivedSources/armv7 -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/DerivedSources -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableView_Prefix-enelmofzeppxgsbovmgazzvyuoau/CustomTableView_Prefix.pch -c /Users/cwiles/Desktop/CustomTableView/Classes/DetailViewController.m -o /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/DetailViewController.o0#
+
+CCompileC build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/RootViewController.o /Users/cwiles/Desktop/CustomTableView/Classes/RootViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s302714451.618982
+e302714451.728849
+r1
+xCompileC
+xbuild/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/RootViewController.o
+x/Users/cwiles/Desktop/CustomTableView/Classes/RootViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/cwiles/Desktop/CustomTableView/Classes/RootViewController.m302714451#302714451#0(0"0(0#0#66"/Users/cwiles/Desktop/CustomTableView/Classes/RootViewController.m8603844608#1909"    cd /Users/cwiles/Desktop/CustomTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-generated-files.hmap -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-own-target-headers.hmap -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-all-target-headers.hmap -iquote /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-project-headers.hmap -F/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos -I/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/include -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/DerivedSources/armv7 -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/DerivedSources -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableView_Prefix-enelmofzeppxgsbovmgazzvyuoau/CustomTableView_Prefix.pch -c /Users/cwiles/Desktop/CustomTableView/Classes/RootViewController.m -o /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/RootViewController.o0#
+
+CCompileC build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/UntitledAppDelegate.o /Users/cwiles/Desktop/CustomTableView/Classes/UntitledAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s302714451.617730
+e302714451.710946
+r1
+xCompileC
+xbuild/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/UntitledAppDelegate.o
+x/Users/cwiles/Desktop/CustomTableView/Classes/UntitledAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/cwiles/Desktop/CustomTableView/Classes/UntitledAppDelegate.m302714451#302714451#0(0"0(0#0#67"/Users/cwiles/Desktop/CustomTableView/Classes/UntitledAppDelegate.m8604143680#1911"    cd /Users/cwiles/Desktop/CustomTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-generated-files.hmap -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-own-target-headers.hmap -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-all-target-headers.hmap -iquote /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-project-headers.hmap -F/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos -I/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/include -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/DerivedSources/armv7 -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/DerivedSources -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableView_Prefix-enelmofzeppxgsbovmgazzvyuoau/CustomTableView_Prefix.pch -c /Users/cwiles/Desktop/CustomTableView/Classes/UntitledAppDelegate.m -o /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/UntitledAppDelegate.o0#
+
+CCompileC build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/main.o /Users/cwiles/Desktop/CustomTableView/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s302714451.554720
+e302714451.618906
+r1
+xCompileC
+xbuild/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/main.o
+x/Users/cwiles/Desktop/CustomTableView/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/cwiles/Desktop/CustomTableView/main.m302714451#302714451#0(0"0(0#0#44"/Users/cwiles/Desktop/CustomTableView/main.m8606852448#1873"    cd /Users/cwiles/Desktop/CustomTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-generated-files.hmap -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-own-target-headers.hmap -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-all-target-headers.hmap -iquote /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-project-headers.hmap -F/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos -I/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/include -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/DerivedSources/armv7 -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/DerivedSources -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableView_Prefix-enelmofzeppxgsbovmgazzvyuoau/CustomTableView_Prefix.pch -c /Users/cwiles/Desktop/CustomTableView/main.m -o /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/cwiles/Desktop/CustomTableView/Classes/DetailViewController.xib
+s302714449.989556
+e302714450.430698
+r1
+xCompileXIB
+x/Users/cwiles/Desktop/CustomTableView/Classes/DetailViewController.xib
+lSLF07#2@43"CompileXIB Classes/DetailViewController.xib302714449#302714450#0(0"0(0#0#70"/Users/cwiles/Desktop/CustomTableView/Classes/DetailViewController.xib8609327680#575"    cd /Users/cwiles/Desktop/CustomTableView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/DetailViewController.nib /Users/cwiles/Desktop/CustomTableView/Classes/DetailViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB /Users/cwiles/Desktop/CustomTableView/MainWindow.xib
+s302714449.988701
+e302714450.492730
+r1
+xCompileXIB
+x/Users/cwiles/Desktop/CustomTableView/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib302714449#302714450#0(0"0(0#0#52"/Users/cwiles/Desktop/CustomTableView/MainWindow.xib8609481344#547"    cd /Users/cwiles/Desktop/CustomTableView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/MainWindow.nib /Users/cwiles/Desktop/CustomTableView/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCpResource build/Debug-iphoneos/CustomTableView.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+s302714449.975001
+e302714449.988613
+r1
+xCpResource
+xbuild/Debug-iphoneos/CustomTableView.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist302714449#302714449#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist8601107456#486"    cd /Users/cwiles/Desktop/CustomTableView    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app0#
+
+CCreateUniversalBinary /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/CustomTableView normal "armv6 armv7"
+s302714451.802700
+e302714451.805800
+r1
+xCreateUniversalBinary
+x/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/CustomTableView
+xnormal
+xarmv6 armv7
+lSLF07#2@99"CreateUniversalBinary build/Debug-iphoneos/CustomTableView.app/CustomTableView normal "armv6 armv7"302714451#302714451#0(0"0(0#0#49"/Users/cwiles/Desktop/CustomTableView/armv6 armv78607409664#578"    cd /Users/cwiles/Desktop/CustomTableView    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/CustomTableView /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/CustomTableView -output /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/CustomTableView0#
+
+CGenerateDSYMFile /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app.dSYM /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/CustomTableView
+s302714451.805886
+e302714451.835304
+r1
+xGenerateDSYMFile
+x/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app.dSYM
+x/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/CustomTableView
+lSLF07#2@119"GenerateDSYMFile build/Debug-iphoneos/CustomTableView.app.dSYM build/Debug-iphoneos/CustomTableView.app/CustomTableView302714451#302714451#0(0"0(0#0#94"/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/CustomTableView8606959200#383"    cd /Users/cwiles/Desktop/CustomTableView    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/CustomTableView -o /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app.dSYM0#
+
+CLd /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/CustomTableView normal armv6
+s302714451.581339
+e302714451.617615
+r1
+xLd
+x/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/CustomTableView
+xnormal
+xarmv6
+lSLF07#2@144"Link /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/CustomTableView302714451#302714451#0(0"0(0#0#0"8606358592#902"    cd /Users/cwiles/Desktop/CustomTableView    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos -F/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos -filelist /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/CustomTableView.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv6/CustomTableView0#
+
+CLd /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/CustomTableView normal armv7
+s302714451.772032
+e302714451.802590
+r1
+xLd
+x/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/CustomTableView
+xnormal
+xarmv7
+lSLF07#2@144"Link /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/CustomTableView302714451#302714451#0(0"0(0#0#0"8601000352#902"    cd /Users/cwiles/Desktop/CustomTableView    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -L/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos -F/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos -filelist /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/CustomTableView.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/Objects-normal/armv7/CustomTableView0#
+
+CProcessInfoPlistFile /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/Info.plist CustomTableView-Info.plist
+s302714449.976424
+e302714449.979964
+r1
+xProcessInfoPlistFile
+x/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/Info.plist
+xCustomTableView-Info.plist
+lSLF07#2@34"Process CustomTableView-Info.plist302714449#302714449#0(0"0(0#0#64"/Users/cwiles/Desktop/CustomTableView/CustomTableView-Info.plist8606837600#590"    cd /Users/cwiles/Desktop/CustomTableView    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CustomTableView-Info.plist -genpkginfo /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/ResourceRules.plist -o /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/Info.plist0#
+
+CProcessPCH /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableView_Prefix-enelmofzeppxgsbovmgazzvyuoau/CustomTableView_Prefix.pch.gch CustomTableView_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s302714450.493836
+e302714451.403333
+r1
+xProcessPCH
+x/var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableView_Prefix-enelmofzeppxgsbovmgazzvyuoau/CustomTableView_Prefix.pch.gch
+xCustomTableView_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile CustomTableView_Prefix.pch302714450#302714451#0(0"0(0#0#64"/Users/cwiles/Desktop/CustomTableView/CustomTableView_Prefix.pch8610088832#1764"    cd /Users/cwiles/Desktop/CustomTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-generated-files.hmap -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-own-target-headers.hmap -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-all-target-headers.hmap -iquote /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-project-headers.hmap -F/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos -I/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/include -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/DerivedSources/armv7 -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/DerivedSources -c /Users/cwiles/Desktop/CustomTableView/CustomTableView_Prefix.pch -o /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableView_Prefix-enelmofzeppxgsbovmgazzvyuoau/CustomTableView_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableView_Prefix-ftbriagzqkrczsgiknusdfklroof/CustomTableView_Prefix.pch.gch CustomTableView_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s302714450.492853
+e302714451.260509
+r1
+xProcessPCH
+x/var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableView_Prefix-ftbriagzqkrczsgiknusdfklroof/CustomTableView_Prefix.pch.gch
+xCustomTableView_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile CustomTableView_Prefix.pch302714450#302714451#0(0"0(0#0#64"/Users/cwiles/Desktop/CustomTableView/CustomTableView_Prefix.pch8610128256#1764"    cd /Users/cwiles/Desktop/CustomTableView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-generated-files.hmap -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-own-target-headers.hmap -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-all-target-headers.hmap -iquote /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView-project-headers.hmap -F/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos -I/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/include -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/DerivedSources/armv6 -I/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/DerivedSources -c /Users/cwiles/Desktop/CustomTableView/CustomTableView_Prefix.pch -o /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomTableView_Prefix-ftbriagzqkrczsgiknusdfklroof/CustomTableView_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/cwiles/Library/MobileDevice/Provisioning Profiles/E2639891-11FC-484F-8411-67380641C90D.mobileprovision" /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/embedded.mobileprovision
+s302714451.835442
+e302714451.836953
+r1
+xProcessProductPackaging
+x/Users/cwiles/Library/MobileDevice/Provisioning Profiles/E2639891-11FC-484F-8411-67380641C90D.mobileprovision
+x/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/embedded.mobileprovision
+lSLF07#2@201"ProcessProductPackaging "/Users/cwiles/Library/MobileDevice/Provisioning Profiles/E2639891-11FC-484F-8411-67380641C90D.mobileprovision" build/Debug-iphoneos/CustomTableView.app/embedded.mobileprovision302714451#302714451#0(0"0(0#0#103"/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/embedded.mobileprovision8606505312#430"    cd /Users/cwiles/Desktop/CustomTableView    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/cwiles/Library/MobileDevice/Provisioning Profiles/E2639891-11FC-484F-8411-67380641C90D.mobileprovision" -o /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView.xcent
+s302714451.840775
+e302714451.860016
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+x/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView.xcent
+lSLF07#2@199"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView.xcent302714451#302714451#0(0"0(0#0#124"/Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView.xcent8603877088#454"    cd /Users/cwiles/Desktop/CustomTableView    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/cwiles/Desktop/CustomTableView/build/CustomTableView.build/Debug-iphoneos/CustomTableView.build/CustomTableView.xcent0#
+
+CTouch /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app
+s302714451.837010
+e302714451.840686
+r1
+xTouch
+x/Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app
+lSLF07#2@84"Touch /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app302714451#302714451#0(0"0(0#0#0"8605928512#270"    cd /Users/cwiles/Desktop/CustomTableView    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/cwiles/Desktop/CustomTableView/build/Debug-iphoneos/CustomTableView.app0#
+

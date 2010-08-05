@@ -1,0 +1,306 @@
+TUntitled
+v7
+r0
+t294178791.994028
+cCheck dependencies
+cProcessInfoPlistFile /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app/Info.plist Untitled-Info.plist
+cCompileXIB /Users/cwiles/Desktop/Untitled/MainWindow.xib
+cCompileXIB /Users/cwiles/Desktop/Untitled/Classes/DetailViewController.xib
+cProcessPCH /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Untitled_Prefix-cpqeoikzvdzmhwbtexeucipxhixw/Untitled_Prefix.pch.gch Untitled_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/main.o /Users/cwiles/Desktop/Untitled/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o /Users/cwiles/Desktop/Untitled/Classes/UntitledAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/RootViewController.o /Users/cwiles/Desktop/Untitled/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/DetailViewController.o /Users/cwiles/Desktop/Untitled/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled normal i386
+cGenerateDSYMFile /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app.dSYM /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled
+cTouch /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004BC8B24E0000000000000110
+t1271444046
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BB70A760000000000279720
+t1270286966
+s2594592
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BB70A830000000000277510
+t1270286979
+s2585872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BB70A5F0000000000001466
+t1270286943
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BB9113C00000000000009CD
+t1270419772
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BB9124900000000022C20B0
+t1270420041
+s36446384
+
+N/Users/cwiles/Desktop/Untitled/Classes/DetailViewController.h
+c000000004BD8974D00000000000000E7
+t1272485709
+s231
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Desktop/Untitled/Classes/DetailViewController.m
+c000000004BD8974D00000000000005A3
+t1272485709
+s1443
+i"DetailViewController.h"
+
+N/Users/cwiles/Desktop/Untitled/Classes/DetailViewController.xib
+c000000004BD8976B0000000000004075
+t1272485739
+s16501
+
+N/Users/cwiles/Desktop/Untitled/Classes/RootViewController.h
+c000000004BD89803000000000000016A
+t1272485891
+s362
+i<UIKit/UIKit.h>
+i"DetailViewController.h"
+
+N/Users/cwiles/Desktop/Untitled/Classes/RootViewController.m
+c000000004BD898630000000000000B8F
+t1272485987
+s2959
+i"RootViewController.h"
+
+N/Users/cwiles/Desktop/Untitled/Classes/UntitledAppDelegate.h
+c000000004BD895A20000000000000164
+t1272485282
+s356
+i<UIKit/UIKit.h>
+i"RootViewController.h"
+
+N/Users/cwiles/Desktop/Untitled/Classes/UntitledAppDelegate.m
+c000000004BD8966E0000000000000341
+t1272485486
+s833
+i"UntitledAppDelegate.h"
+
+N/Users/cwiles/Desktop/Untitled/Classes/untitled.h
+c000000004BD8947700000000000000D4
+t1272484983
+s212
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Desktop/Untitled/Classes/untitled.m
+c000000004BD8947800000000000012C3
+t1272484984
+s4803
+i"untitled.h"
+
+N/Users/cwiles/Desktop/Untitled/MainWindow.xib
+c000000004BD89331000000000000210D
+t1272484657
+s8461
+
+N/Users/cwiles/Desktop/Untitled/Untitled_Prefix.pch
+c000000004BD8933100000000000000B9
+t1272484657
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app
+t1272485989
+s238
+
+N/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app.dSYM
+t1272485989
+s102
+
+N/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app/DetailViewController.nib
+t1272485980
+s1178
+
+N/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app/Info.plist
+t1272484778
+s595
+
+N/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app/MainWindow.nib
+t1272484778
+s985
+
+N/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app/PkgInfo
+t1272484778
+s8
+
+N/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled
+t1272485989
+s25752
+
+N/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/DetailViewController.o
+t1272485981
+s34476
+
+N/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/RootViewController.o
+t1272485989
+s47340
+
+N/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Untitled.LinkFileList
+c000000004BD8985C00000000000001FD
+t1272485980
+s509
+
+N/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o
+t1272485981
+s45212
+
+N/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/main.o
+t1272484779
+s5928
+
+N/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/untitled.o
+t2
+s0
+
+N/Users/cwiles/Desktop/Untitled/main.m
+c000000004BD893310000000000000164
+t1272484657
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Untitled_Prefix-cpqeoikzvdzmhwbtexeucipxhixw/Untitled_Prefix.pch.gch
+t1272484779
+s15154192
+
+NUntitled-Info.plist
+c000000004BD89331000000000000038D
+t1272484657
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294178791#294178792#0(0"0(0#1#0"4300739032#0"0#
+
+CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/DetailViewController.o /Users/cwiles/Desktop/Untitled/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294178781.182637
+e294178781.255483
+r1
+xCompileC
+xbuild/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/DetailViewController.o
+x/Users/cwiles/Desktop/Untitled/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/cwiles/Desktop/Untitled/Classes/DetailViewController.m294178781#294178781#0(0"0(0#0#61"/Users/cwiles/Desktop/Untitled/Classes/DetailViewController.m4300739032#1829"    cd /Users/cwiles/Desktop/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -include /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Untitled_Prefix-cpqeoikzvdzmhwbtexeucipxhixw/Untitled_Prefix.pch -c /Users/cwiles/Desktop/Untitled/Classes/DetailViewController.m -o /Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/RootViewController.o /Users/cwiles/Desktop/Untitled/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294178788.549004
+e294178789.423583
+r1
+xCompileC
+xbuild/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/RootViewController.o
+x/Users/cwiles/Desktop/Untitled/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/cwiles/Desktop/Untitled/Classes/RootViewController.m294178788#294178789#0(0"0(0#0#59"/Users/cwiles/Desktop/Untitled/Classes/RootViewController.m4300739032#1825"    cd /Users/cwiles/Desktop/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -include /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Untitled_Prefix-cpqeoikzvdzmhwbtexeucipxhixw/Untitled_Prefix.pch -c /Users/cwiles/Desktop/Untitled/Classes/RootViewController.m -o /Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o /Users/cwiles/Desktop/Untitled/Classes/UntitledAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294178781.005860
+e294178781.182508
+r1
+xCompileC
+xbuild/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o
+x/Users/cwiles/Desktop/Untitled/Classes/UntitledAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/cwiles/Desktop/Untitled/Classes/UntitledAppDelegate.m294178781#294178781#0(0"0(0#0#60"/Users/cwiles/Desktop/Untitled/Classes/UntitledAppDelegate.m4300739032#1827"    cd /Users/cwiles/Desktop/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -include /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Untitled_Prefix-cpqeoikzvdzmhwbtexeucipxhixw/Untitled_Prefix.pch -c /Users/cwiles/Desktop/Untitled/Classes/UntitledAppDelegate.m -o /Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o0#
+
+CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/main.o /Users/cwiles/Desktop/Untitled/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294177579.467290
+e294177579.535366
+r1
+xCompileC
+xbuild/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/main.o
+x/Users/cwiles/Desktop/Untitled/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/cwiles/Desktop/Untitled/main.m294177579#294177579#0(0"0(0#0#37"/Users/cwiles/Desktop/Untitled/main.m4300739032#1789"    cd /Users/cwiles/Desktop/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -include /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Untitled_Prefix-cpqeoikzvdzmhwbtexeucipxhixw/Untitled_Prefix.pch -c /Users/cwiles/Desktop/Untitled/main.m -o /Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/untitled.o /Users/cwiles/Desktop/Untitled/Classes/untitled.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/cwiles/Desktop/Untitled/Classes/DetailViewController.xib
+s294178780.584457
+e294178781.005521
+r1
+xCompileXIB
+x/Users/cwiles/Desktop/Untitled/Classes/DetailViewController.xib
+lSLF07#2@43"CompileXIB Classes/DetailViewController.xib294178780#294178781#0(0"0(0#0#63"/Users/cwiles/Desktop/Untitled/Classes/DetailViewController.xib4300739032#485"    cd /Users/cwiles/Desktop/Untitled    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app/DetailViewController.nib /Users/cwiles/Desktop/Untitled/Classes/DetailViewController.xib0#
+
+CCompileXIB /Users/cwiles/Desktop/Untitled/MainWindow.xib
+s294177578.171826
+e294177578.555294
+r1
+xCompileXIB
+x/Users/cwiles/Desktop/Untitled/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294177578#294177578#0(0"0(0#0#45"/Users/cwiles/Desktop/Untitled/MainWindow.xib4300739032#457"    cd /Users/cwiles/Desktop/Untitled    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app/MainWindow.nib /Users/cwiles/Desktop/Untitled/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app.dSYM /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled
+s294178789.456570
+e294178789.478870
+r1
+xGenerateDSYMFile
+x/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app.dSYM
+x/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Untitled.app.dSYM build/Debug-iphonesimulator/Untitled.app/Untitled294178789#294178789#0(0"0(0#0#80"/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled4300739032#362"    cd /Users/cwiles/Desktop/Untitled    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled -o /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app.dSYM0#
+
+CLd /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled normal i386
+s294178789.423715
+e294178789.456443
+r1
+xLd
+x/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled
+xnormal
+xi386
+lSLF07#2@85"Link /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled294178789#294178789#0(0"0(0#0#0"4300739032#827"    cd /Users/cwiles/Desktop/Untitled    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator -F/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator -filelist /Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Untitled.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled0#
+
+CProcessInfoPlistFile /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app/Info.plist Untitled-Info.plist
+s294177578.144605
+e294177578.171666
+r1
+xProcessInfoPlistFile
+x/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app/Info.plist
+xUntitled-Info.plist
+lSLF07#2@27"Process Untitled-Info.plist294177578#294177578#0(0"0(0#0#50"/Users/cwiles/Desktop/Untitled/Untitled-Info.plist29555366482477168#458"    cd /Users/cwiles/Desktop/Untitled    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Untitled-Info.plist -genpkginfo /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app/Info.plist0#
+
+CProcessPCH /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Untitled_Prefix-cpqeoikzvdzmhwbtexeucipxhixw/Untitled_Prefix.pch.gch Untitled_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294177578.555457
+e294177579.467154
+r1
+xProcessPCH
+x/var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Untitled_Prefix-cpqeoikzvdzmhwbtexeucipxhixw/Untitled_Prefix.pch.gch
+xUntitled_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Untitled_Prefix.pch294177578#294177579#0(0"0(0#0#50"/Users/cwiles/Desktop/Untitled/Untitled_Prefix.pch4300739032#1688"    cd /Users/cwiles/Desktop/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/cwiles/Desktop/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -c /Users/cwiles/Desktop/Untitled/Untitled_Prefix.pch -o /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Untitled_Prefix-cpqeoikzvdzmhwbtexeucipxhixw/Untitled_Prefix.pch.gch0#
+
+CTouch /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app
+s294178789.478972
+e294178789.482966
+r1
+xTouch
+x/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app
+lSLF07#2@77"Touch /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app294178789#294178789#0(0"0(0#0#0"4300739032#263"    cd /Users/cwiles/Desktop/Untitled    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/Untitled.app0#
+

@@ -1,0 +1,287 @@
+TCustomTableView
+v7
+r0
+t294241576.231944
+cCheck dependencies
+cProcessInfoPlistFile /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app/Info.plist CustomTableView-Info.plist
+cCompileXIB /Users/cwiles/Desktop/Untitled/MainWindow.xib
+cCompileXIB /Users/cwiles/Desktop/Untitled/Classes/DetailViewController.xib
+cProcessPCH /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CustomTableView_Prefix-cpqeoikzvdzmhwbtexeucipxhixw/CustomTableView_Prefix.pch.gch CustomTableView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/Objects-normal/i386/main.o /Users/cwiles/Desktop/Untitled/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/Objects-normal/i386/UntitledAppDelegate.o /Users/cwiles/Desktop/Untitled/Classes/UntitledAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/Objects-normal/i386/RootViewController.o /Users/cwiles/Desktop/Untitled/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/Objects-normal/i386/DetailViewController.o /Users/cwiles/Desktop/Untitled/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app/CustomTableView normal i386
+cGenerateDSYMFile /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app.dSYM /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app/CustomTableView
+cTouch /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004BC8B24E0000000000000110
+t1271444046
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BB70A760000000000279720
+t1270286966
+s2594592
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BB70A830000000000277510
+t1270286979
+s2585872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BB70A5F0000000000001466
+t1270286943
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BB9113C00000000000009CD
+t1270419772
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BB9124900000000022C20B0
+t1270420041
+s36446384
+
+N/Users/cwiles/Desktop/Untitled/Classes/DetailViewController.h
+c000000004BD8974D00000000000000E7
+t1272485709
+s231
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Desktop/Untitled/Classes/DetailViewController.m
+c000000004BD8974D00000000000005A3
+t1272485709
+s1443
+i"DetailViewController.h"
+
+N/Users/cwiles/Desktop/Untitled/Classes/DetailViewController.xib
+c000000004BD8976B0000000000004075
+t1272485739
+s16501
+
+N/Users/cwiles/Desktop/Untitled/Classes/RootViewController.h
+c000000004BD89803000000000000016A
+t1272485891
+s362
+i<UIKit/UIKit.h>
+i"DetailViewController.h"
+
+N/Users/cwiles/Desktop/Untitled/Classes/RootViewController.m
+c000000004BD898630000000000000B8F
+t1272485987
+s2959
+i"RootViewController.h"
+
+N/Users/cwiles/Desktop/Untitled/Classes/UntitledAppDelegate.h
+c000000004BD895A20000000000000164
+t1272485282
+s356
+i<UIKit/UIKit.h>
+i"RootViewController.h"
+
+N/Users/cwiles/Desktop/Untitled/Classes/UntitledAppDelegate.m
+c000000004BD8966E0000000000000341
+t1272485486
+s833
+i"UntitledAppDelegate.h"
+
+N/Users/cwiles/Desktop/Untitled/CustomTableView_Prefix.pch
+c000000004BD8933100000000000000B9
+t1272484657
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Desktop/Untitled/MainWindow.xib
+c000000004BD89331000000000000210D
+t1272484657
+s8461
+
+N/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/Objects-normal/i386/CustomTableView.LinkFileList
+c000000004BD98DA60000000000000235
+t1272548774
+s565
+
+N/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/Objects-normal/i386/DetailViewController.o
+t1272548776
+s34476
+
+N/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/Objects-normal/i386/RootViewController.o
+t1272548776
+s47340
+
+N/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/Objects-normal/i386/UntitledAppDelegate.o
+t1272548776
+s45212
+
+N/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/Objects-normal/i386/main.o
+t1272548775
+s5928
+
+N/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app
+t1272548776
+s238
+
+N/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app.dSYM
+t1272548776
+s102
+
+N/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app/CustomTableView
+t1272548776
+s25808
+
+N/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app/DetailViewController.nib
+t1272548774
+s1178
+
+N/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app/Info.plist
+t1272548774
+s629
+
+N/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app/MainWindow.nib
+t1272548774
+s985
+
+N/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app/PkgInfo
+t1272548774
+s8
+
+N/Users/cwiles/Desktop/Untitled/main.m
+c000000004BD893310000000000000164
+t1272484657
+s356
+i<UIKit/UIKit.h>
+
+N/var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CustomTableView_Prefix-cpqeoikzvdzmhwbtexeucipxhixw/CustomTableView_Prefix.pch.gch
+t1272548775
+s15154192
+
+NCustomTableView-Info.plist
+c000000004BD89331000000000000038D
+t1272484657
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294241574#294241574#0(0"0(0#1#0"28710924367954040#0"0#
+
+CCompileC build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/Objects-normal/i386/DetailViewController.o /Users/cwiles/Desktop/Untitled/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294241576.032835
+e294241576.111797
+r1
+xCompileC
+xbuild/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/Objects-normal/i386/DetailViewController.o
+x/Users/cwiles/Desktop/Untitled/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/cwiles/Desktop/Untitled/Classes/DetailViewController.m294241576#294241576#0(0"0(0#0#61"/Users/cwiles/Desktop/Untitled/Classes/DetailViewController.m4300739032#1969"    cd /Users/cwiles/Desktop/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/CustomTableView-generated-files.hmap -I/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/CustomTableView-own-target-headers.hmap -I/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/CustomTableView-all-target-headers.hmap -iquote /Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/CustomTableView-project-headers.hmap -F/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/DerivedSources/i386 -I/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/DerivedSources -include /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CustomTableView_Prefix-cpqeoikzvdzmhwbtexeucipxhixw/CustomTableView_Prefix.pch -c /Users/cwiles/Desktop/Untitled/Classes/DetailViewController.m -o /Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/Objects-normal/i386/RootViewController.o /Users/cwiles/Desktop/Untitled/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294241575.998018
+e294241576.116924
+r1
+xCompileC
+xbuild/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/Objects-normal/i386/RootViewController.o
+x/Users/cwiles/Desktop/Untitled/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/cwiles/Desktop/Untitled/Classes/RootViewController.m294241575#294241576#0(0"0(0#0#59"/Users/cwiles/Desktop/Untitled/Classes/RootViewController.m4300739032#1965"    cd /Users/cwiles/Desktop/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/CustomTableView-generated-files.hmap -I/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/CustomTableView-own-target-headers.hmap -I/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/CustomTableView-all-target-headers.hmap -iquote /Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/CustomTableView-project-headers.hmap -F/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/DerivedSources/i386 -I/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/DerivedSources -include /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CustomTableView_Prefix-cpqeoikzvdzmhwbtexeucipxhixw/CustomTableView_Prefix.pch -c /Users/cwiles/Desktop/Untitled/Classes/RootViewController.m -o /Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/Objects-normal/i386/UntitledAppDelegate.o /Users/cwiles/Desktop/Untitled/Classes/UntitledAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294241575.891660
+e294241576.032723
+r1
+xCompileC
+xbuild/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/Objects-normal/i386/UntitledAppDelegate.o
+x/Users/cwiles/Desktop/Untitled/Classes/UntitledAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/cwiles/Desktop/Untitled/Classes/UntitledAppDelegate.m294241575#294241576#0(0"0(0#0#60"/Users/cwiles/Desktop/Untitled/Classes/UntitledAppDelegate.m4300739032#1967"    cd /Users/cwiles/Desktop/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/CustomTableView-generated-files.hmap -I/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/CustomTableView-own-target-headers.hmap -I/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/CustomTableView-all-target-headers.hmap -iquote /Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/CustomTableView-project-headers.hmap -F/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/DerivedSources/i386 -I/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/DerivedSources -include /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CustomTableView_Prefix-cpqeoikzvdzmhwbtexeucipxhixw/CustomTableView_Prefix.pch -c /Users/cwiles/Desktop/Untitled/Classes/UntitledAppDelegate.m -o /Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/Objects-normal/i386/UntitledAppDelegate.o0#
+
+CCompileC build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/Objects-normal/i386/main.o /Users/cwiles/Desktop/Untitled/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294241575.890084
+e294241575.997906
+r1
+xCompileC
+xbuild/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/Objects-normal/i386/main.o
+x/Users/cwiles/Desktop/Untitled/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/cwiles/Desktop/Untitled/main.m294241575#294241575#0(0"0(0#0#37"/Users/cwiles/Desktop/Untitled/main.m4300739032#1929"    cd /Users/cwiles/Desktop/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/CustomTableView-generated-files.hmap -I/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/CustomTableView-own-target-headers.hmap -I/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/CustomTableView-all-target-headers.hmap -iquote /Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/CustomTableView-project-headers.hmap -F/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/DerivedSources/i386 -I/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/DerivedSources -include /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CustomTableView_Prefix-cpqeoikzvdzmhwbtexeucipxhixw/CustomTableView_Prefix.pch -c /Users/cwiles/Desktop/Untitled/main.m -o /Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/cwiles/Desktop/Untitled/Classes/DetailViewController.xib
+s294241574.377758
+e294241574.871090
+r1
+xCompileXIB
+x/Users/cwiles/Desktop/Untitled/Classes/DetailViewController.xib
+lSLF07#2@43"CompileXIB Classes/DetailViewController.xib294241574#294241574#0(0"0(0#0#63"/Users/cwiles/Desktop/Untitled/Classes/DetailViewController.xib4300739032#492"    cd /Users/cwiles/Desktop/Untitled    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app/DetailViewController.nib /Users/cwiles/Desktop/Untitled/Classes/DetailViewController.xib0#
+
+CCompileXIB /Users/cwiles/Desktop/Untitled/MainWindow.xib
+s294241574.375794
+e294241574.818009
+r1
+xCompileXIB
+x/Users/cwiles/Desktop/Untitled/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294241574#294241574#0(0"0(0#0#45"/Users/cwiles/Desktop/Untitled/MainWindow.xib4300739032#464"    cd /Users/cwiles/Desktop/Untitled    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app/MainWindow.nib /Users/cwiles/Desktop/Untitled/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app.dSYM /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app/CustomTableView
+s294241576.205432
+e294241576.227565
+r1
+xGenerateDSYMFile
+x/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app.dSYM
+x/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app/CustomTableView
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/CustomTableView.app.dSYM build/Debug-iphonesimulator/CustomTableView.app/CustomTableView294241576#294241576#0(0"0(0#0#94"/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app/CustomTableView4300739032#383"    cd /Users/cwiles/Desktop/Untitled    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app/CustomTableView -o /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app.dSYM0#
+
+CLd /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app/CustomTableView normal i386
+s294241576.117025
+e294241576.205316
+r1
+xLd
+x/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app/CustomTableView
+xnormal
+xi386
+lSLF07#2@99"Link /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app/CustomTableView294241576#294241576#0(0"0(0#0#0"4300739032#862"    cd /Users/cwiles/Desktop/Untitled    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator -F/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator -filelist /Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/Objects-normal/i386/CustomTableView.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app/CustomTableView0#
+
+CProcessInfoPlistFile /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app/Info.plist CustomTableView-Info.plist
+s294241574.292141
+e294241574.375669
+r1
+xProcessInfoPlistFile
+x/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app/Info.plist
+xCustomTableView-Info.plist
+lSLF07#2@34"Process CustomTableView-Info.plist294241574#294241574#0(0"0(0#0#57"/Users/cwiles/Desktop/Untitled/CustomTableView-Info.plist29555366482477168#479"    cd /Users/cwiles/Desktop/Untitled    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CustomTableView-Info.plist -genpkginfo /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app/Info.plist0#
+
+CProcessPCH /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CustomTableView_Prefix-cpqeoikzvdzmhwbtexeucipxhixw/CustomTableView_Prefix.pch.gch CustomTableView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294241574.871323
+e294241575.889769
+r1
+xProcessPCH
+x/var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CustomTableView_Prefix-cpqeoikzvdzmhwbtexeucipxhixw/CustomTableView_Prefix.pch.gch
+xCustomTableView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile CustomTableView_Prefix.pch294241574#294241575#0(0"0(0#0#57"/Users/cwiles/Desktop/Untitled/CustomTableView_Prefix.pch4300739032#1821"    cd /Users/cwiles/Desktop/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/CustomTableView-generated-files.hmap -I/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/CustomTableView-own-target-headers.hmap -I/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/CustomTableView-all-target-headers.hmap -iquote /Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/CustomTableView-project-headers.hmap -F/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/DerivedSources/i386 -I/Users/cwiles/Desktop/Untitled/build/CustomTableView.build/Debug-iphonesimulator/CustomTableView.build/DerivedSources -c /Users/cwiles/Desktop/Untitled/CustomTableView_Prefix.pch -o /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CustomTableView_Prefix-cpqeoikzvdzmhwbtexeucipxhixw/CustomTableView_Prefix.pch.gch0#
+
+CTouch /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app
+s294241576.227665
+e294241576.231893
+r1
+xTouch
+x/Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app
+lSLF07#2@84"Touch /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app294241576#294241576#0(0"0(0#0#0"4300739032#270"    cd /Users/cwiles/Desktop/Untitled    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/cwiles/Desktop/Untitled/build/Debug-iphonesimulator/CustomTableView.app0#
+
